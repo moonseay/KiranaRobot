@@ -9,7 +9,7 @@ from KiranaRobot import (
     TIGERS,
     WOLVES,
     dispatcher,
-) 
+)
 from KiranaRobot.modules.helper_funcs.chat_status import dev_plus
 from KiranaRobot.modules.helper_funcs.extraction import (
     extract_user,
