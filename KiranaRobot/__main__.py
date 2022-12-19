@@ -83,7 +83,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-◍ ɪᴍ ᴋɪʀᴀɴᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ [🇮🇩](https://graph.org/file/6a3741cd26afbea87d140.jpg)
+◍ ɪᴍ ꜱʜᴀɴᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ [🌻](https://telegra.ph/file/d5467fcfdf0bc69385159.jpg)
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
@@ -383,7 +383,7 @@ def kirana_about_callback(update, context):
                     InlineKeyboardButton(text="ᴄʀᴇᴅɪᴛs", callback_data="kirana_credit"),
                  ],
                  [
-                    InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/moonseay/KiranaRobot"),
+                    InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://telegra.ph/file/2f25734a9ff205d0ed043.jpg"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="source_back"),
